@@ -22,5 +22,5 @@ export const analytics = getAnalytics(app);
 // Export these for the rest of the project
 export const db = getFirestore(app);
 export const auth = getAuth(app);
-export const provider = new GoogleAuthProvider();
+export const googleProvider = new GoogleAuthProvider();
 // nothing, just a blank line
