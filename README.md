@@ -1,15 +1,5 @@
 # 🔍 ScanTheLie
 
-<div align="center">
-
-### A Web App To Analyze Packaged Food Products.
-
-[<img src="https://img.shields.io/badge/LIVE_DEMO-Try_Now-FF4081?style=for-the-badge&logoColor=white" width="200"/>](https://scanthelie.vercel.app)
-
-[![Deployed with Vercel](https://img.shields.io/badge/Deployed%20with-Vercel-black?style=for-the-badge&logo=vercel)](https://scanthelie.vercel.app)
-[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org)
-[![Powered by Gemini AI](https://img.shields.io/badge/Powered%20by-Gemini%20AI-4285F4?style=for-the-badge&logo=google)](https://cloud.google.com/gemini)
-
 
 ### 📸 Try with these example images:
 
